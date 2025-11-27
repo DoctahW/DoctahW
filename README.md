@@ -21,4 +21,3 @@ Hey, My name is João Euclides (he/him). I'm a Computer Science student from Bra
 ### Developing currently:
 
 [![Amigo+](https://github-readme-stats.vercel.app/api/pin/?username=DoctahW&repo=animals-ccfp&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/DoctahW/animals-ccfp)
-[![JediSlider](https://github-readme-stats.vercel.app/api/pin/?username=ErickSimoes&repo=JediSlider&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/ErickSimoes/JediSlider)
