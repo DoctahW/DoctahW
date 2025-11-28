@@ -3,7 +3,7 @@ Hi there! 👋
 </h1>
 
 <div align='center'>
-[![Linkedin: joaoeuclides](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/joaoeuclides)
+[![Linkedin: joaoeuclides](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/joaoeuclides)]
 [![Email](https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@eucli.dev)
 [![Instagram: Tuclides](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tuclides)
 </div>
